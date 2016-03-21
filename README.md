@@ -1,4 +1,4 @@
-# NationStatesBattleSim
+# NationStates Battle Simulator
 NationStates Battle Simulator is a roleplaying supplement and Battle Simulator for Nation States.  It's designed to take input from the user for different factors of battle: Force Count, Morale, Technology, Training, Combat Experience, Logistics, and Intel, and simulate the outcome of a skirmish to be roleplayed out after.  This allows for constructive roleplay, as the outcome of the battle isn't decided by story arc alone.  
 
 
@@ -74,6 +74,8 @@ A: The reason the NS values aren't compatible with this version is that Nation S
 
 #Contact
 
-Questions or Comments? Direct them to ghostlyBanjo@gmail.com
+Questions or Comments? Direct them to sad.states@gmail.com
 
-I'm also online most of the day on #NSBS at webchat.esper.net
+I'm also online most of the day on #NSBS or #Audaxia at webchat.esper.net
+
+Now maintained by Sad-States with the permission of Articalla.
